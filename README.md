@@ -35,7 +35,7 @@ DDoS is an abbreviation for **Distributed Denial of Service**, a type of attack 
 Moreover, the tool is designed with ease of use in mind, allowing even novice users to carry out advanced DDoS attacks with ease.
 
 
-# New Features in Version: 2.0
+# New Features in Version: 3.0
 
 • Focus on Layer 7 attacks: The tool is re-designed to specifically target the most sophisticated types of DDoS attacks, known as layer 7 attacks.
 
@@ -50,7 +50,7 @@ Moreover, the tool is designed with ease of use in mind, allowing even novice us
 
 # Installation
 
-`git clone https://github.com/blackhatethicalhacking/DDoSlayer.git`
+`[git clone https://github.com/cyberanand1337x/DDoSlayer.git`
 
 `cd DDoSlayer`
 
@@ -78,7 +78,7 @@ It is recommended to use high bandwidth, such as a VPS Server.
 
 **Main Menu**
 
-![DDoSlayer](https://github.com/blackhatethicalhacking/DDoSlayer/assets/13942386/991d82f4-b497-4783-8bc1-2b72fff513f5)
+![DDoSlayer](https://github.com/cyberanand1337x/DDoSlayer/assets/13942386/991d82f4-b497-4783-8bc1-2b72fff513f5)
 
 # Compatibility
 
@@ -87,14 +87,14 @@ Tested on Kali Linux, Parrot OS & MacOS
 
 # Updates
 
-V2.0
+V3.0
 
 Added 3 attack options to choose from
 Error Handlings
 Optimizations
 Check Features!
 
-V1.2
+V2.2
 
 We just converted this tool from Python2 to Python3! added some colors, added time to perform the attack as well!
 
